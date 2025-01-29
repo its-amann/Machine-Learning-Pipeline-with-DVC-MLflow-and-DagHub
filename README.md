@@ -82,6 +82,7 @@ This project leverages DagHub for:
 - Model registry and versioning
 - Centralized storage of metrics and artifacts
 - Collaborative experimentation
+![image](https://github.com/user-attachments/assets/4fae734f-6a89-4fbd-b462-c59b96174773)
 
 The MLflow tracking server is configured to use DagHub's servers:
 ```python
